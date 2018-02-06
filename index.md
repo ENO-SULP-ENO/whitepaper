@@ -1,7 +1,7 @@
 ![](https://raw.githubusercontent.com/ENO-SULP-ENO/whitepaper/master/logo.jpg)
 
-# Глобальная благотворительная программа лояльности нового поколения
-# A Next Generation Charity Based Global Loyalty Program
+# Благотворительная программа лояльности нового поколения
+# A Next Generation Charity Based Loyalty Program
 
 ## 1. Введение
 
