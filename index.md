@@ -1,6 +1,7 @@
 ![](https://raw.githubusercontent.com/ENO-SULP-ENO/whitepaper/master/logo.jpg)
 
-# One+1 Whitepaper
+# Глобальная благотворительная программа лояльности нового поколения
+# A Next Generation Charity Based Global Loyalty Program
 
 ## 1. Введение
 
